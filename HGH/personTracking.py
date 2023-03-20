@@ -2,6 +2,7 @@
 adapted from:
 https://realpython.com/face-recognition-with-python/
 https://thedatafrog.com/en/articles/human-detection-video/
+https://www.tutorialspoint.com/how-to-mask-an-image-in-opencv-python#
 '''
 
 import numpy as np
